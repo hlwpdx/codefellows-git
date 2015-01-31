@@ -1,0 +1,7 @@
+We've created our first file!
+
+ls -l
+touch
+pwd
+clear
+cd
